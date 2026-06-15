@@ -1,12 +1,10 @@
-DSU PhD Research Portal
+## 14-06-2026
 
-Tech stack: React 18, Vite, Tailwind CSS, React Router DOM, Lucide Icons, Recharts, Framer Motion
-
-Quick start:
-
-```bash
-npm install
-npm run dev
-```
-
-Project structure: see `src/` for components, pages, layouts, data and services.
+* Reviewed DSU PhD Portal BRD and Use Case documents.
+* Identified scholar dashboard requirements and workflow.
+* Set up React + Vite frontend project structure.
+* Created assets, components, pages, layouts, routes, hooks, services, and utils folders.
+* Implemented sidebar navigation structure.
+* Added DSU branding and logo integration.
+* Resolved dependency and environment setup issues.
+* Started development of Scholar Dashboard frontend.
